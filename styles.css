@@ -1,0 +1,16 @@
+.container{
+
+    display:flex;
+    align-items:center; 
+    justify-content:center;
+    height:100vh;
+    flex-direction: column;
+
+}
+button{
+    height: 50px;
+    width:130px;
+    font-weight: bold;
+    border:2px solid black;
+    border-radius: 5px;
+}
